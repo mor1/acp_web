@@ -1,13 +1,10 @@
-[![Smart Cambridge logo](images/smart_cambridge_logo.jpg)](https://github.com/ijl20/tfc_web)
-
-With hep from [<img src="https://marker.io/vendor/img/logo/browserstack-logo.svg" height="30">](https://www.browserstack.com/)
-
-# Part of the Smart Cambridge programme.
+# Adaptive City Program Web System
 
 ## Overview
-
-TFC Web provides the conventional web access to the Rita Real-time Data Platform, connecting to the real-time data
-platform via its supported API.
+ACP Web provides the web access to the ACP Platform, supporting three main capabilities:
+1. A visual display of data collected via ACP Server.
+2. API's providing 3rd-party access to the collected data (both http/restful and zip download).
+3. A highly flexible 'SmartPanel' system supporting web display of real-time content.
 
 ## Installation
 
